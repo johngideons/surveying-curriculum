@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/surveying-curriculum/static/css/main.eebac29a.css",
-    "main.js": "/surveying-curriculum/static/js/main.b74f761e.js",
-    "index.html": "/surveying-curriculum/index.html",
-    "main.eebac29a.css.map": "/surveying-curriculum/static/css/main.eebac29a.css.map",
-    "main.b74f761e.js.map": "/surveying-curriculum/static/js/main.b74f761e.js.map"
+    "main.css": "./static/css/main.eebac29a.css",
+    "main.js": "./static/js/main.3fcdaab5.js",
+    "index.html": "./index.html",
+    "main.eebac29a.css.map": "./static/css/main.eebac29a.css.map",
+    "main.3fcdaab5.js.map": "./static/js/main.3fcdaab5.js.map"
   },
   "entrypoints": [
     "static/css/main.eebac29a.css",
-    "static/js/main.b74f761e.js"
+    "static/js/main.3fcdaab5.js"
   ]
 }
