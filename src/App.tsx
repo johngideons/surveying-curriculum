@@ -266,7 +266,7 @@ const HomePage: React.FC = () => {
 
 const App: React.FC = () => {
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router>
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route
